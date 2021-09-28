@@ -53,9 +53,7 @@
   <entry>
     <title>Docker使用笔记</title>
     <url>/articles/docker-notes/</url>
-    <content><![CDATA[<p>11111111111111111</p>
-<span id="more"></span>
-<h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><h1 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h1><p>登录镜像仓库：</p>
+    <content><![CDATA[<h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><h1 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h1><p>登录镜像仓库：</p>
 <p>docker login –username=[yourname] [url]</p>
 <h1 id="运维"><a href="#运维" class="headerlink" title="运维"></a>运维</h1><p>查看容器占用资源：</p>
 <p>docker stats</p>
