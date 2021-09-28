@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /js/
+Disallow: /css/
+
+Sitemap: https://blog.qiximu.com/sitemap.xml
+Sitemap: https://blog.qiximu.com/baidusitemap.xml
